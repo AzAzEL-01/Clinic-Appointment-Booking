@@ -1,8 +1,16 @@
 # React + Vite
+Clinic Appointment Booking
+A web app for booking clinic appointments online. University capstone project — frontend only.
+🌐 Live Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built With
 
-Currently, two official plugins are available:
+React + Vite
+Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Run Locally
+bashgit clone https://github.com/AzAzEL-01/Clinic-Appointment-Booking.git
+cd Clinic-Appointment-Booking
+npm install
+npm run dev
